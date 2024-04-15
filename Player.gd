@@ -24,3 +24,4 @@ func _physics_process(delta):
 	velocity.z = direction.z * speed
 	
 	velocity = move_and_slide(velocity, Vector3.UP)
+#im out here coding n shit
