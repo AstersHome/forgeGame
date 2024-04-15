@@ -1,5 +1,5 @@
 extends KinematicBody
-
+# local export variables
 export var speed = 14.0
 export var jump_impulse = 20.0
 export var gravity = 75.0
